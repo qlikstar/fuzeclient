@@ -1,0 +1,79 @@
+[
+   {
+        "PlayerName": "Pudge",
+        "TotalGames": 2235,
+        "TotalPoints": 1050,
+        "Groupid": 2,
+        "SuccessPercent": 46.97986577181208
+    },
+    {
+        "PlayerName": "Nyx Assassin",
+        "TotalGames": 1587,
+        "TotalPoints": 939,
+        "Groupid": 2,
+        "SuccessPercent": 59.168241965973536
+    },
+    {
+        "PlayerName": "Rubick",
+        "TotalGames": 1620,
+        "TotalPoints": 787,
+        "Groupid": 2,
+        "SuccessPercent": 48.58024691358025
+    },
+    {
+        "PlayerName": "Bounty Hunter",
+        "TotalGames": 1523,
+        "TotalPoints": 739,
+        "Groupid": 2,
+        "SuccessPercent": 48.522652659225216
+    },
+    {
+        "PlayerName": "Invoker",
+        "TotalGames": 1801,
+        "TotalPoints": 735,
+        "Groupid": 2,
+        "SuccessPercent": 40.8106607440311
+    },
+    {
+        "PlayerName": "Queen of Pain",
+        "TotalGames": 1468,
+        "TotalPoints": 729,
+        "Groupid": 2,
+        "SuccessPercent": 49.65940054495913
+    },
+    {
+        "PlayerName": "Lifestealer",
+        "TotalGames": 1351,
+        "TotalPoints": 684,
+        "Groupid": 2,
+        "SuccessPercent": 50.62916358253146
+    },
+    {
+        "PlayerName": "Phantom Lancer",
+        "TotalGames": 1152,
+        "TotalPoints": 634,
+        "Groupid": 2,
+        "SuccessPercent": 55.03472222222222
+    },
+    {
+        "PlayerName": "Keeper of the Light",
+        "TotalGames": 1154,
+        "TotalPoints": 611,
+        "Groupid": 2,
+        "SuccessPercent": 52.94627383015598
+    },
+    {
+        "PlayerName": "Shadow Fiend",
+        "TotalGames": 1249,
+        "TotalPoints": 591,
+        "Groupid": 2,
+        "SuccessPercent": 47.31785428342674
+    },
+    {
+        "PlayerName": "Magnus",
+        "TotalGames": 1123,
+        "TotalPoints": 558,
+        "Groupid": 2,
+        "SuccessPercent": 49.68833481745325
+    }
+]

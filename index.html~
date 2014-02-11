@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<script type= "text/javascript">
+
+function api_get_json()
+{
+	var Client = require('node-rest-client').Client;
+
+	// direct way
+	client = new Client();
+
+	args ={
+		path:{"id":2},
+		headers:{"test-header":"client-api"}
+	      };
+
+	client.get("http://localhost:5000/fuzebox/analytics/groups/${id}", args, 
+		function(data, response){
+		    // parsed response body as js object
+		    return console.log(data);
+		    
+		    // raw response
+		    //console.log(response);
+	});
+}
+
+</script>
+
+</head>
+
+<body>
+<script>
+
+
+document.write("<h1>This is a heading</h1>");
+document.write("<p>This is a paragraph</p>");
+
+var json = '{"result":true,"count":1}',
+    obj = JSON.parse(json);
+document.write(json);
+
+api_get_json();
+
+
+
+</script>
+
+</body>
+
+</html>

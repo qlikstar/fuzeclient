@@ -1,0 +1,100 @@
+[
+    {
+        "PlayerName": "Pudge",
+        "TotalGames": 2310,
+        "TotalPoints": 1213,
+        "Groupid": 1,
+        "SuccessPercent": 52.510822510822514
+    },
+    {
+        "PlayerName": "Nyx Assassin",
+        "TotalGames": 1560,
+        "TotalPoints": 954,
+        "Groupid": 1,
+        "SuccessPercent": 61.15384615384615
+    },
+    {
+        "PlayerName": "Windrunner",
+        "TotalGames": 1961,
+        "TotalPoints": 954,
+        "Groupid": 1,
+        "SuccessPercent": 48.648648648648646
+    },
+    {
+        "PlayerName": "Bounty Hunter",
+        "TotalGames": 1453,
+        "TotalPoints": 757,
+        "Groupid": 1,
+        "SuccessPercent": 52.09910529938059
+    },
+    {
+        "PlayerName": "Lifestealer",
+        "TotalGames": 1368,
+        "TotalPoints": 751,
+        "Groupid": 1,
+        "SuccessPercent": 54.89766081871345
+    },
+    {
+        "PlayerName": "Queen of Pain",
+        "TotalGames": 1435,
+        "TotalPoints": 733,
+        "Groupid": 1,
+        "SuccessPercent": 51.0801393728223
+    },
+    {
+        "PlayerName": "Shadow Fiend",
+        "TotalGames": 1325,
+        "TotalPoints": 697,
+        "Groupid": 1,
+        "SuccessPercent": 52.60377358490566
+    },
+    {
+        "PlayerName": "Phantom Lancer",
+        "TotalGames": 1140,
+        "TotalPoints": 688,
+        "Groupid": 1,
+        "SuccessPercent": 60.35087719298246
+    },
+    {
+        "PlayerName": "Keeper of the Light",
+        "TotalGames": 1126,
+        "TotalPoints": 676,
+        "Groupid": 1,
+        "SuccessPercent": 60.03552397868561
+    },
+    {
+        "PlayerName": "Drow Ranger",
+        "TotalGames": 1049,
+        "TotalPoints": 636,
+        "Groupid": 1,
+        "SuccessPercent": 60.62917063870353
+    },
+    {
+        "PlayerName": "Mirana",
+        "TotalGames": 1142,
+        "TotalPoints": 603,
+        "Groupid": 1,
+        "SuccessPercent": 52.80210157618214
+    },
+    {
+        "PlayerName": "Axe",
+        "TotalGames": 1205,
+        "TotalPoints": 588,
+        "Groupid": 1,
+        "SuccessPercent": 48.79668049792531
+    },
+    {
+        "PlayerName": "Sand King",
+        "TotalGames": 982,
+        "TotalPoints": 555,
+        "Groupid": 1,
+        "SuccessPercent": 56.5173116089613
+    },
+    {
+        "PlayerName": "Kunkka",
+        "TotalGames": 1046,
+        "TotalPoints": 549,
+        "Groupid": 1,
+        "SuccessPercent": 52.48565965583174
+    }
+]
